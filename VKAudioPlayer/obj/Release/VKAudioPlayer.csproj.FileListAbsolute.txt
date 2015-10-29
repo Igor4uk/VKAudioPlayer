@@ -1,0 +1,4 @@
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Release\VKAudioPlayer.exe.config
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Release\Interop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Release\AxInterop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Release\VKAudioPlayer.csproj.ResolveComReference.cache
