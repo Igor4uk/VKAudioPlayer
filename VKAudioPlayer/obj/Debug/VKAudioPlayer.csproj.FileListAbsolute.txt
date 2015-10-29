@@ -1,0 +1,17 @@
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\VKAudioPlayer.exe.config
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\VKAudioPlayer.exe
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\VKAudioPlayer.pdb
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.csprojResolveAssemblyReference.cache
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.Form1.resources
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.Form2.resources
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.Properties.Resources.resources
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.csproj.GenerateResource.Cache
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.exe
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.pdb
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\Newtonsoft.Json.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\Newtonsoft.Json.xml
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\Interop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\Interop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\docs\visual studio 2012\Projects\vk\VKAudioPlayer\VKAudioPlayer\obj\Debug\VKAudioPlayer.csproj.ResolveComReference.cache
